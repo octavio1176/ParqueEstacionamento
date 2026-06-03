@@ -1,0 +1,2 @@
+A1;true
+A2;false
