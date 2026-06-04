@@ -25,7 +25,10 @@ public class GestorFicheiros {
 
     public void gravarClientes(ArrayList<Cliente> clientes) {
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(FICHEIRO_CLIENTES))) {
-            for (Cliente c : clientes) { bw.write(c.toFicheiro()); bw.newLine(); }
+            for (Cliente c: clientes) {
+                bw.write(c.toFicheiro());
+                bw.newLine();
+            }
         } catch (IOException e) {
             System.out.println("Erro ao gravar clientes: " + e.getMessage());
         }
