@@ -1,1 +1,10 @@
 1;octavio;23;o@gmail.com
+2;claudia;82 100 2058;claudia@gmail.com
+3;mfumo;83 430 4079;m@gmail.com
+4;david;8455983;david@gmail.com
+5;horbelcio;84567809;horbelcio@gmail.com
+6;narcel;86434532;narcel@gmail.com
+7;liria;liria@gmail.com;liria@gmail.com
+8;victor;85093321;victor@gmail.com
+9;bryan;8632421;b@gmail.com
+10;yan;87432122;yan@gmail.com

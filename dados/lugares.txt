@@ -1,2 +1,11 @@
 A1;true
 A2;false
+A5;false
+A3;false
+A4;false
+A6;false
+A7;false
+A8;false
+A9;false
+A11;false
+A10;false
